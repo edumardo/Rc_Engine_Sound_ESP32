@@ -45,6 +45,9 @@
 // Russian tanks -------
 //#include "vehicles/IS3.h" // IS-3 WW2 battle tank, V12 Diesel (dual ESC mode, good bass speaker required)
 
+// German tanks -------
+#include "vehicles/PantherG.h" // Panther Ausf G WW2 battle tank
+
 // Tractors -------
 //#include "vehicles/KirovetsK700.h" // Russian Kirovets K700 monster tractor. Extreme turbo sound!
 
@@ -52,7 +55,7 @@
 //#include "vehicles/Caterpillar323Excavator.h" // Caterpillar 323 excavator (use "FLYSKY_FS_I6S_EXCAVATOR" remote profile)
 
 // Dumpers -------
-#include "vehicles/Benford3TonDumper.h" // Benford 3 ton dumper
+//#include "vehicles/Benford3TonDumper.h" // Benford 3 ton dumper
 
 // US motorcycles --------
 //#include "vehicles/HarleyDavidsonFXSB.h" // Harley Davidson FXSB V2 motorcycle
